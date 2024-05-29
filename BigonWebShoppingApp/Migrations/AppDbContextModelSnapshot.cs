@@ -22,6 +22,35 @@ namespace BigonWebShoppingApp.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("BigonWebShoppingApp.Models.Category", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("DeletedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("ParentCategoryId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ParentCategoryId");
+
+                    b.ToTable("Categories");
+                });
+
             modelBuilder.Entity("BigonWebShoppingApp.Models.Subscriber", b =>
                 {
                     b.Property<string>("Email")
@@ -42,6 +71,15 @@ namespace BigonWebShoppingApp.Migrations
                     b.HasKey("Email");
 
                     b.ToTable("Subscribers", (string)null);
+                });
+
+            modelBuilder.Entity("BigonWebShoppingApp.Models.Category", b =>
+                {
+                    b.HasOne("BigonWebShoppingApp.Models.Category", "ParentCategory")
+                        .WithMany()
+                        .HasForeignKey("ParentCategoryId");
+
+                    b.Navigation("ParentCategory");
                 });
 #pragma warning restore 612, 618
         }

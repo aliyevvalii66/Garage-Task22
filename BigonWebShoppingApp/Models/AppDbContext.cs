@@ -12,6 +12,7 @@ namespace BigonWebShoppingApp.Models
 
 
         public DbSet<Subscriber> Subscribers { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -20,7 +21,6 @@ namespace BigonWebShoppingApp.Models
         }
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
-            var subscribers = ChangeTracker.Entries<Subscriber>();
             var baseEntries = ChangeTracker.Entries<BaseEntity>();
             foreach (var item in baseEntries)
             {
