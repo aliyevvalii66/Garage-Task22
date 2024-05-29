@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\controllers\\subscribercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\controllers\\subscribercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\wwwroot\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\wwwroot\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\helpers\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\helpers\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\models\\responsecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\models\\responsecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|c:\\users\\admin\\source\\repos\\bigonwebshoppingapp\\bigonwebshoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C5CE1D-567C-417A-BA2E-C6C7AEE9ACBD}|BigonWebShoppingApp\\BigonWebShoppingApp.csproj|solutionrelative:bigonwebshoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,93 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\.gitignore",
-              "RelativeDocumentMoniker": "BigonWebShoppingApp\\.gitignore",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\.gitignore",
-              "RelativeToolTip": "BigonWebShoppingApp\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-27T17:24:57.597Z",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BigonWebShoppingApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BigonWebShoppingApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:19:20.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\.gitignore",
-              "RelativeDocumentMoniker": "BigonWebShoppingApp\\.gitignore",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\.gitignore",
-              "RelativeToolTip": "BigonWebShoppingApp\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-27T17:16:44.446Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "BigonWebShoppingApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "BigonWebShoppingApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAIcBAAAAAAAAAAAYwIwBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:14:12.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResponseContent.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Models\\ResponseContent.cs",
-              "RelativeDocumentMoniker": "BigonWebShoppingApp\\Models\\ResponseContent.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Models\\ResponseContent.cs",
-              "RelativeToolTip": "BigonWebShoppingApp\\Models\\ResponseContent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAVAAAA",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BigonWebShoppingApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BigonWebShoppingApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T05:42:17.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "custom.js",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\custom.js",
-              "RelativeDocumentMoniker": "BigonWebShoppingApp\\wwwroot\\custom.js",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\custom.js",
-              "RelativeToolTip": "BigonWebShoppingApp\\wwwroot\\custom.js",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-27T05:40:04.25Z"
+              "WhenOpened": "2024-05-29T17:14:05.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BigonWebShoppingApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BigonWebShoppingApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADcEAAAAAAAAAAAAAEgEAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-27T05:34:16.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MailService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Helpers\\Services\\MailService.cs",
-              "RelativeDocumentMoniker": "BigonWebShoppingApp\\Helpers\\Services\\MailService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Helpers\\Services\\MailService.cs",
-              "RelativeToolTip": "BigonWebShoppingApp\\Helpers\\Services\\MailService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAMAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BigonWebShoppingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Program.cs",
+              "RelativeToolTip": "BigonWebShoppingApp\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T05:07:19.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubscriberController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Controllers\\SubscriberController.cs",
-              "RelativeDocumentMoniker": "BigonWebShoppingApp\\Controllers\\SubscriberController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\Controllers\\SubscriberController.cs",
-              "RelativeToolTip": "BigonWebShoppingApp\\Controllers\\SubscriberController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T05:07:04.747Z",
+              "WhenOpened": "2024-05-29T17:13:37.955Z",
               "EditorCaption": ""
             }
           ]

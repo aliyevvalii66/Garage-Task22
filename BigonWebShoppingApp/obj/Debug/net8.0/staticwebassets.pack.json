@@ -5,6 +5,426 @@
       "PackagePath": "staticwebassets\\BigonWebShoppingApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\css\\main.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\css\\vendors\\bootstrap.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\vendors\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\css\\vendors\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\vendors\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\css\\vendors\\material-icon-round.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\vendors\\material-icon-round.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\css\\vendors\\normalize.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\vendors\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\css\\vendors\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\vendors\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\css\\vendors\\select2.min.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\vendors\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Outlined.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Outlined.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Outlined.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Outlined.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Outlined.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Outlined.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Round.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Round.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Round.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Round.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Round.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Round.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Sharp.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Sharp.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Sharp.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Sharp.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-Sharp.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-Sharp.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-TwoTone.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-TwoTone.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\fonts\\material-icon\\MaterialIcons.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\material-icon\\MaterialIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-10.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-11.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-12.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-13.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-14.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-15.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-16.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-17.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-18.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-7.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-8.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand-9.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\brand.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\brand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\brands\\vendor-2.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\brands\\vendor-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\card-brands\\1.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\card-brands\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\card-brands\\2.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\card-brands\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\card-brands\\3.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\card-brands\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\card-brands\\4.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\card-brands\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\icons\\stars-active.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\icons\\stars-active.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\icons\\starts-disable.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\icons\\starts-disable.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\1.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\10.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\11.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\12-1.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\12-2.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\12-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\12.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\2.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\3.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\4.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\5.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\6.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\7.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\8.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\items\\9.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\items\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\misc\\map.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\misc\\map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\people\\avatar-1.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\people\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\people\\avatar-2.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\people\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\people\\avatar-3.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\people\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\people\\avatar-4.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\people\\avatar-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\people\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\people\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\people\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\people\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\people\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\people\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\people\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\people\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\theme\\404.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\theme\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\theme\\favicon.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\theme\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\theme\\flag-cn.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\theme\\flag-cn.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\theme\\flag-fr.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\theme\\flag-fr.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\theme\\flag-jp.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\theme\\flag-jp.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\theme\\flag-us.png",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\theme\\flag-us.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\theme\\logo.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\theme\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\imgs\\theme\\upload.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\imgs\\theme\\upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\custom-chart.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\main.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\vendors\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\vendors\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\vendors\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\vendors\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\vendors\\chart.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\vendors\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\vendors\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\vendors\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\vendors\\jquery.fullscreen.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\vendors\\jquery.fullscreen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\vendors\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\vendors\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\js\\vendors\\select2.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\vendors\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\abstracts\\_import-vendors.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\abstracts\\_import-vendors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\base\\_helpers.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\base\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\components\\_elements.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\components\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\components\\_items.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\components\\_items.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\components\\_navigation.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\components\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\layout\\_layout-dark.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\layout\\_layout-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\layout\\_layout.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\layout\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\layout\\_responsive.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\layout\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\layout\\_spacing.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\layout\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\adminAssets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\adminAssets\\sass\\main.scss"
+    },
+    {
       "Id": "C:\\Users\\Admin\\source\\repos\\BigonWebShoppingApp\\BigonWebShoppingApp\\wwwroot\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.css"
     },
